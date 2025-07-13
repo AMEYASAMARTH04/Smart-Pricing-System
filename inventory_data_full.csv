@@ -1,0 +1,6 @@
+ProductName,Category,ExpiryDate,CurrentStockLevel,RestockLevel,ReorderQuantity
+Apple,Fruit,2025-08-07 15:50:00.063235,177,38,179
+Banana,Fruit,2025-08-07 15:50:00.063445,437,92,167
+Carrot,Vegetable,2025-08-07 15:50:00.063504,183,31,177
+Orange,Fruit,2025-08-07 15:50:00.063537,459,68,167
+Tomato,Vegetable,2025-08-07 15:50:00.063563,225,36,172
